@@ -11,6 +11,7 @@
   inputs.src-dataUrl-master.ref   = "refs/heads/master";
   inputs.src-dataUrl-master.owner = "thisago";
   inputs.src-dataUrl-master.repo  = "dataUrl";
+  inputs.src-dataUrl-master.dir   = "";
   inputs.src-dataUrl-master.type  = "github";
   
   inputs."cligen".owner = "nim-nix-pkgs";

@@ -7,7 +7,7 @@
   "license": "MIT",
   "web": "https://github.com/thisago/dataUrl",
   "refs": [
-    "fatal: unable to access 'https://github.com/thisago/dataUrl/': SSL connection timeout",
+    "fatal: unable to access 'https://github.com/thisago/dataUrl/': Failed to connect to github.com port 443 after 132367 ms: Network is unreachable",
     ""
   ],
   "heads": []
